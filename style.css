@@ -1,0 +1,50 @@
+.main {
+  text-align: center;
+  padding: 70px 0;
+  background-image: url(images/main.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+.main1 {
+  text-align: center;
+  padding: 70px 0;
+  background-image: url(images/main1.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+
+
+footer {
+  color: white;
+  position: absolute;
+  width: 100%;
+}
+
+.space {
+  padding: 60px;
+}
+
+.backgroundmint {
+  background-color: #DEDEDE;
+  padding: 60px;
+}
+.mission {
+  padding: 75px 0;
+  background-image: url(images/tendermercies.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+
+}
+.whitebackground {
+  background-color: white;
+  opacity: .7;
+  padding: 20px;
+}
+
+nav ul li {
+  padding-right: 10px;
+}
