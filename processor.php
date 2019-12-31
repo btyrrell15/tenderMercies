@@ -11,7 +11,7 @@
       </head>
       <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary sticky-top">
-          <a class="navbar-brand" href="index.html">Tender Mercies Inc.</a>
+          <a class="navbar-brand" href="index.html">Tender Mercies</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -40,7 +40,7 @@
 
         <section id="section-home">
         <div class="main">
-        <h1 class="display-4">Tender Mercies Inc.</h1>
+        <h1 class="display-4">Tender Mercies</h1>
         <p class="lead">Providing a Better Life to the Disabled Population</p>
         <?php
         if (isset($_POST['name']) && isset($_POST['email'])){
@@ -151,7 +151,7 @@
 
           <!--Copyright-->
           <p class="text-center text-md-left">© 2019 Copyright:
-              <strong> Tender Mercies Inc.</strong>
+              <strong> Tender Mercies</strong>
           </p>
 
         </div>
