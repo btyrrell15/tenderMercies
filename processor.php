@@ -46,7 +46,7 @@
         if (isset($_POST['name']) && isset($_POST['email'])){
             $from = $_POST['email'];
             $name = $_POST['name'];
-            $to      = 'btyrrell15@hotmail.com';
+            $to      = 'uk.derekh@gmail.com';
             $subject = 'Response from website';
             $message = $_POST['message'];
             $body = '<html>
@@ -119,16 +119,7 @@
         <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
           <h6 class="text-uppercase mb-4 font-weight-bold">Useful links</h6>
           <p>
-            <a href="#!">Your Account</a>
-          </p>
-          <p>
-            <a href="#!">Become an Affiliate</a>
-          </p>
-          <p>
-            <a href="#!">Shipping Rates</a>
-          </p>
-          <p>
-            <a href="#!">Help</a>
+            <a href="paypage/index.php">Donate</a>
           </p>
         </div>
 
