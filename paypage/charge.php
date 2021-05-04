@@ -3,7 +3,7 @@
 
   // Set your secret key: remember to change this to your live secret key in production
   // See your keys here: https://dashboard.stripe.com/account/apikeys
-  \Stripe\Stripe::setApiKey('sk_test_xvO3gimHV3cRpTydCAkENhPQ00IxPn7PLg');
+  \Stripe\Stripe::setApiKey('');
 
   // Sanitize POST array
   $POST = filter_var_array($_POST, FILTER_SANITIZE_STRING);
